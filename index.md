@@ -11,14 +11,14 @@ Planning, Team Management, Analysis.
 
 ## Tech Stack
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-PHP, HTML, Javascript, Jquery, Node.js
-MySql, MSSQL, MongoDB
-Prestashop, Laravel, DoPHP, CakePHP, Zend, Symfony, Vtiger, Codeigniter
-API Integration, Payment Gateway
-Integration, Optimization
-AWS
-CMS, OMS, CRM, POS
-Applications for E-Commerce, Retail, Warehouse, Hotels
+- PHP, HTML, Javascript, Jquery, Node.js
+- MySql, MSSQL, MongoDB
+- Prestashop, Laravel, DoPHP, CakePHP, Zend, Symfony, Vtiger, Codeigniter
+- API Integration, Payment Gateway
+- Integration, Optimization
+- AWS
+- CMS, OMS, CRM, POS
+- Applications for E-Commerce, Retail, Warehouse, Hotels
 
 ## Addons 
 Team Management
