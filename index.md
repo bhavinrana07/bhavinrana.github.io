@@ -9,8 +9,7 @@ development.Expert in LAMP and LEMP environments.
 Having hands-on Experience (8+ Years) not just in Development but also in Product
 Planning, Team Management, Analysis.
 
-## Skills
-
+## Tech Stack
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 PHP, HTML, Javascript, Jquery, Node.js
 MySql, MSSQL, MongoDB
@@ -20,6 +19,13 @@ Integration, Optimization
 AWS
 CMS, OMS, CRM, POS
 Applications for E-Commerce, Retail, Warehouse, Hotels
+
+## Addons 
+Team Management
+Client Communication, Project
+Management
+Tech Planning
+Mock-up Design
 
 
 ## My Career and Education
