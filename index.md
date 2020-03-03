@@ -4,7 +4,7 @@ layout: default
 
 ## Intro
 
-Software Professional with solid experience in the back-end, front-end, web and API
+Hi There, I'm **Bhavin** Software Professional with solid experience in the back-end, front-end, web and API
 development.Expert in LAMP and LEMP environments.
 Having hands-on Experience (8+ Years) not just in Development but also in Product
 Planning, Team Management, Analysis.
@@ -13,7 +13,7 @@ Planning, Team Management, Analysis.
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-## Work History
+## My Career and Education
 ### Software Engineer, Senior Associate
 **Pomelo Fashion, Bangkok** _2017-11 - Present_
 
