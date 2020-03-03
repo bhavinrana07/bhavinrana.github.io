@@ -1,10 +1,17 @@
 ---
 layout: default
 ---
+
+## Intro
+
 Software Professional with solid experience in the back-end, front-end, web and API
 development.Expert in LAMP and LEMP environments.
 Having hands-on Experience (8+ Years) not just in Development but also in Product
 Planning, Team Management, Analysis.
+
+## Skills
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ## Work History
 ### Software Engineer, Senior Associate
@@ -71,6 +78,6 @@ surat city (Gujarat, India) oursurat.com
 
 ## Education 
 ### M.Sc.I.C.T. 
-###### Veer Narmad South Gujarat University, Surat, Gujarat, India
+##### Veer Narmad South Gujarat University, Surat, Gujarat, India
 ### B.C.A.
-###### Veer Narmad South Gujarat University, Surat, Gujarat, India
+##### Veer Narmad South Gujarat University, Surat, Gujarat, India
