@@ -21,11 +21,10 @@ Planning, Team Management, Analysis.
 - Applications for E-Commerce, Retail, Warehouse, Hotels
 
 ## Addons 
-Team Management
-Client Communication, Project
-Management
-Tech Planning
-Mock-up Design
+- Team Management
+- Client Communication, Project Management
+- Tech Planning
+- Mock-up Design
 
 
 ## My Career and Education
