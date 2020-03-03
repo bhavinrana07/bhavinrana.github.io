@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Intro
+## Know Me
 
-Hi There, I'm **Bhavin** Software Professional with solid experience in the back-end, front-end, web and API
+Hi There, I'm **Bhavin**, A Software Professional with solid experience in the back-end, front-end, web and API
 development.Expert in LAMP and LEMP environments.
 Having hands-on Experience (8+ Years) not just in Development but also in Product
 Planning, Team Management, Analysis.
@@ -12,6 +12,15 @@ Planning, Team Management, Analysis.
 ## Skills
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+PHP, HTML, Javascript, Jquery, Node.js
+MySql, MSSQL, MongoDB
+Prestashop, Laravel, DoPHP, CakePHP, Zend, Symfony, Vtiger, Codeigniter
+API Integration, Payment Gateway
+Integration, Optimization
+AWS
+CMS, OMS, CRM, POS
+Applications for E-Commerce, Retail, Warehouse, Hotels
+
 
 ## My Career and Education
 ### Software Engineer, Senior Associate
