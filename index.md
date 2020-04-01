@@ -29,13 +29,23 @@ contributions in the field.
 ### Software Engineer, Senior Associate
 **Pomelo Fashion, Bangkok** _2017-11 - Present_
 
-*   While working with the fastest growing e-commerce company in Southeast Asia, I am
-involved in Many Processes, Helping Product Managers to build scalable products
-*   Build tools to support warehouse process
-*   Build features to support Retail Omnichannel
-*   Maintain and enhance Product to support the teams in the company
-*   handing team of 6 developers
-*   Working with AWS Tools, API Development, DevOps Tools, Backend Tools, CMS, OMS, CRM Tools.
+*   Leading the product, handling a team of 6 developers, deligating the work, status
+updates, helping team members, doing the code review (tech stack - Symfony PHP
+Framework with Mysql, Cache, Mongodb for Logs, AWS for cloud hosting, Jenkins for
+Deployment)
+*   Achieved a standard level of product with continuous polishing and updating. 
+*   boosted the speed of the application with implementing cache. did the query
+optimization of important pages i.e. products and orders, brought up the quality of the
+code with code cleanup. Improved the speed of pages 25%. 
+*   covered 85% off code with unit-tests to (earlier there were no unit-tests), created a unit
+test dashboard and a bit of automation where the unit test will run every week and
+send the result to the team. 
+*   Taking part in meeting with stack holders as well as product owners to plan a scalable
+feature
+*   Built, Maintained and enhanced features to support several teams e.g. Retail
+Omnichannel, warehouse, Marketing, Operations, HR, Buyers, Designers
+*   Leading way to the robust and user-friendly product with continuous creating and
+maintaining features with performance optimization.
 
 ### Software Engineer
 **Pomelo Fashion, Bangkok** _2016-02 - 2017-10_
